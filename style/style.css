@@ -1,0 +1,18 @@
+body {background-color: pink;
+text-align: center;
+margin-top: 20px;
+max-width: 100%;
+}
+
+p {text-align: justify;
+padding-left: 50px;
+padding-right: 50px;}
+
+a {color: black;
+text-decoration: none;}
+
+a:hover{color: lightslategray}
+
+img {margin: 20px;
+width: 400px;
+height: 400px;}
